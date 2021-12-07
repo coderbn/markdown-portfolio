@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- :heart:
+- :+1:
+
+* hello
+* test
+
+1. my
+2. hello
